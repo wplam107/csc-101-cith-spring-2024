@@ -14,4 +14,6 @@ The course textbook is the Zybooks CSC 101 online textbook.
 
 ## Resources
 
+Review PDFs will be added to the `resources` folder for each lecture.
+
 I will be posting additional resources for those who are interested in topics such as game design, artificial intelligence (AI), and machine learning (ML) in the `resources` folder.
