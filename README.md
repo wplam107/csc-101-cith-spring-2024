@@ -10,7 +10,7 @@ I have updated the syllabus to include my faculty email.
 
 ## Course Textbook
 
-The course textbook is the Zybooks CSC 101 online textbook.  The Zybook code is: CUNYCSC101LamSpring2024
+The course textbook is the Zybooks CSC 101 online textbook.
 
 ## Resources
 
