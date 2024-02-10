@@ -30,4 +30,5 @@ In game development, the game designers and software engineers do not start buil
 
 - [Code Academy C++ Course](https://www.codecademy.com/learn/learn-c-plus-plus) - Again, you have to sign up but it's free if you don't care about some certificate.  Most online coding courses are about the same.  After learning how to write in C++ I would suggest to learn how to make your code machine readable which means we need to compile the code to machine language: [Code Academy's Post on How to Compile C++ code](https://www.codecademy.com/article/cpp-compile-execute-locally)
 - [Cal Tech's CS11 Course: Section on compiling C++ code](http://courses.cms.caltech.edu/cs11/material/cpp/mike/misc/compiling_c++.html) - A more in-depth understanding of how compiling of C++ code works.
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - Well-known, learn Python by yourself book.
 
