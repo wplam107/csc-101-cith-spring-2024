@@ -12,6 +12,10 @@ I have updated the syllabus to include my faculty email.
 
 The course textbook is the Zybooks CSC 101 online textbook.
 
+## How to Submit Homework
+
+Create your own repo, set to private, and add me `wplam107` as a collaborator.
+
 ## Resources
 
 Review PDFs will be added to the `resources` folder for each lecture.
