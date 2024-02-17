@@ -32,3 +32,8 @@ In game development, the game designers and software engineers do not start buil
 - [Cal Tech's CS11 Course: Section on compiling C++ code](http://courses.cms.caltech.edu/cs11/material/cpp/mike/misc/compiling_c++.html) - A more in-depth understanding of how compiling of C++ code works.
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - Well-known, learn Python by yourself book.
 
+## Web Dev:
+- TBD
+
+## Cyber Security:
+- TBD
