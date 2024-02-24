@@ -1,6 +1,8 @@
 # Resources for Artificial Intelligence (AI), Machine Learning (ML), Game Development
 
-A few of you asked me about AI/ML and game development in class last week.  I will keep a running list of free online resources that I will update as I find more.  Just one word of advice.  When learning something like game development or AI/ML on your own, try to find small projects or small topics to understand first.  Like in game dev, maybe look at how you can build 1 room of a level first and how you can make a character interact with the objects or in AI/ML, learn how to classify handwritten digits (ex. train the model to recognize that a handwritten 2 is a 2) as this is a very well explored topic so there will be a lot of tutorials and online resources out there. 
+A few of you asked me about AI/ML and game development in class last week.  I will keep a running list of free online resources that I will update as I find more.  Just one word of advice.  When learning something like game development or AI/ML on your own, try to find small projects or small topics to understand first.  Like in game dev, maybe look at how you can build 1 room of a level first and how you can make a character interact with the objects or in AI/ML, learn how to classify handwritten digits (ex. train the model to recognize that a handwritten 2 is a 2) as this is a very well explored topic so there will be a lot of tutorials and online resources out there.
+
+In software development and engineering **practicing** coding and working on projects that you come up with is really the only way to get good.  It will prepare you more for a job as theory is less important than whether you can build an application.
 
 ## Mathematics for AI/ML:
 
@@ -33,7 +35,7 @@ In game development, the game designers and software engineers do not start buil
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - Well-known, learn Python by yourself book.
 
 ## Web Dev:
-- TBD
+- [Odin Project](https://www.theodinproject.com/) - Full-stack web development course that prepares students for junior developer roles.  Choose the Javascript option if you want to take it as Ruby on Rails is a somewhat dated framework.  Node.js is used for more often nowadays since you will only need to know Javascript for both the front-end (what the user sees and interactives with) and back-end (accessing databases and serving the data/web page).
 
 ## Cyber Security:
-- TBD
+- [Cyber Security Full Course for Beginner](https://www.youtube.com/watch?v=U_P23SqJaDc) - YouTube beginner's course in cybersecurity recommended to me by a professor who specifically teaches cybersecurity.
